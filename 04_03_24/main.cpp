@@ -61,7 +61,7 @@ int main()
 
     // int numDrinks = inputInt("How many drinks do you want? ", numGT0);
     int numDrinks = 1;
-    drinks = new drink *[numDrinks];
+    drinkOrder dorder2;
 
     while (yN == 'Y')
     {
